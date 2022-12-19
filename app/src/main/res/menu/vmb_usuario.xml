@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:icon="@drawable/ic_inicio"
+        android:id="@+id/inicio"/>
+    <item android:title="Nosotros"
+        android:icon="@drawable/ic_nosotros"
+        android:id="@+id/nosotros"/>
+    <item android:title="Pizzas"
+        android:icon="@drawable/ic_pizzas"
+        android:id="@+id/pizzas"/>
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:id="@+id/ms_inicio_admin"
+        android:icon="@drawable/ic_inicio"/>
+    <item android:title="Reglas"
+        android:id="@+id/ms_reglas_admin"
+        android:icon="@drawable/ic_nosotros"/>
+    <item android:title="Clientes"
+        android:id="@+id/ms_clientes_admin"
+        android:icon="@drawable/ic_lista"/>
+</menu>

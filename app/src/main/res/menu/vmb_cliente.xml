@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:id="@+id/ms_inicio_cliente"
+        android:icon="@drawable/ic_inicio"/>
+    <item android:title="Pizzas"
+        android:id="@+id/ms_lista_pizzas"
+        android:icon="@drawable/ic_pizzas"/>
+    <item android:title="Carrito"
+        android:id="@+id/ms_carrito_cliente"
+        android:icon="@drawable/ic_carrito_compras"/>
+    <item android:title="Pago"
+        android:id="@+id/ms_pago_cliente"
+        android:icon="@drawable/ic_pago"/>
+</menu>

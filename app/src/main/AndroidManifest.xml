@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.usmp.proyectofinalandroid">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProyectoFinalAndroid">
+        <activity
+            android:name=".controladores.ActCliente"
+            android:exported="false" />
+        <activity
+            android:name=".controladores.ActAdministrador"
+            android:exported="false"
+            android:label="OttoPizzas" />
+        <activity
+            android:name=".controladores.ActPedidosXCliente"
+            android:exported="false"
+            android:label="OttoPizzas" />
+        <activity
+            android:name=".controladores.ActVistaModificar"
+            android:exported="false"
+            android:label="OttoPizzas" />
+        <activity
+            android:name=".controladores.ActVistaRegistrar"
+            android:label="OttoPizzas" />
+        <activity
+            android:name=".controladores.ActVistaIngresar"
+            android:label="OttoPizzas" />
+        <activity
+            android:name=".controladores.ActPrincipal"
+            android:exported="true"
+            android:label="OttoPizzas">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

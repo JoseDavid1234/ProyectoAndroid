@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_administrador.xml" value="0.25" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_cliente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_detalle_ped_x_cli.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_frag_carrito_cli.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_frag_clientes_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_frag_ini_cli.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_frag_inicio_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_frag_list_ped.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_frag_pago_cli.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_vista_ingresar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_vista_modificar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/layout/lyt_vista_registrar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/JOSE DAVID/AndroidStudioProjects/ProyectoFinalAndroid_v4/app/src/main/res/menu/vmb_admin.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
